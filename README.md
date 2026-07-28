@@ -27,20 +27,20 @@ Deep-Learning-Models-Python
 ├── 01. Artificial Neural Networks (ANN)
 ├── 02. Convolutional Neural Networks (CNN)
 ├── 03. Recurrent Neural Networks (RNN)
-├── 04. Transformers
-├── 05. Vision Transformers (ViT)
-├── 06. Transfer Learning
-├── 07. Object Detection
-├── 08. Image Segmentation
-├── 09. Autoencoders
-├── 10. Generative Adversarial Networks (GAN)
-├── 11. Diffusion Models
-├── 12. Graph Neural Networks (GNN)
-├── 13. Capsule Networks
-├── 14. Siamese Networks
-├── 15. Self-Organizing Maps (SOM)
-├── 16. Restricted Boltzmann Machines (RBM)
-├── 17. Deep Belief Networks (DBN)
+├── 04. Attention Mechanisms
+├── 05. Transformers
+├── 06. Vision Transformers (ViT)
+├── 07. Transfer Learning
+├── 08. Object Detection
+├── 09. Image Segmentation
+├── 10. Autoencoders
+├── 11. Generative Adversarial Networks (GAN)
+├── 12. Diffusion Models
+├── 13. Graph Neural Networks (GNN)
+├── 14. Capsule Networks
+├── 15. Siamese Networks
+├── 16. Self-Organizing Maps (SOM)
+├── 17. Restricted Boltzmann Machines (RBM)
 └── 18. Model Optimization
 ```
 
@@ -66,7 +66,6 @@ Deep-Learning-Models-Python
 
 * Convolution Operation
 * Pooling Layers
-* CNN Fundamentals
 * LeNet
 * AlexNet
 * VGGNet
@@ -77,7 +76,6 @@ Deep-Learning-Models-Python
 * MobileNet
 * EfficientNet
 * Image Classification
-* Custom CNN Architectures
 
 ---
 
@@ -92,12 +90,21 @@ Deep-Learning-Models-Python
 * Time Series Forecasting
 * Text Classification
 * Sequence Prediction
-* Bahdanau Attention
-* Luong Attention
 
 ---
 
-## 04. Transformers
+## 04. Attention Mechanisms
+
+* Bahdanau Attention
+* Luong Attention (General)
+* Luong Attention (Dot Product)
+* Self-Attention
+* Single-Head Attention
+* Multi-Head Attention
+
+---
+
+## 05. Transformers
 
 * Self-Attention
 * Multi-Head Attention
@@ -111,7 +118,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 05. Vision Transformers (ViT)
+## 06. Vision Transformers (ViT)
 
 * Vision Transformer (ViT)
 * DeiT
@@ -121,7 +128,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 06. Transfer Learning
+## 07. Transfer Learning
 
 * Feature Extraction
 * Fine-Tuning
@@ -136,7 +143,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 07. Object Detection
+## 08. Object Detection
 
 * YOLOv3
 * YOLOv5
@@ -149,7 +156,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 08. Image Segmentation
+## 09. Image Segmentation
 
 * U-Net
 * U-Net++
@@ -160,7 +167,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 09. Autoencoders
+## 10. Autoencoders
 
 * Vanilla Autoencoder
 * Sparse Autoencoder
@@ -172,7 +179,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 10. Generative Adversarial Networks (GAN)
+## 11. Generative Adversarial Networks (GAN)
 
 * Vanilla GAN
 * Deep Convolutional GAN (DCGAN)
@@ -185,7 +192,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 11. Diffusion Models
+## 12. Diffusion Models
 
 * Diffusion Model Fundamentals
 * Denoising Diffusion Probabilistic Models (DDPM)
@@ -195,7 +202,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 12. Graph Neural Networks (GNN)
+## 13. Graph Neural Networks (GNN)
 
 * Graph Convolutional Networks (GCN)
 * Graph Attention Networks (GAT)
@@ -206,7 +213,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 13. Capsule Networks
+## 14. Capsule Networks
 
 * Capsule Layers
 * Dynamic Routing
@@ -215,7 +222,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 14. Siamese Networks
+## 15. Siamese Networks
 
 * Similarity Learning
 * Contrastive Loss
@@ -227,7 +234,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 15. Self-Organizing Maps (SOM)
+## 16. Self-Organizing Maps (SOM)
 
 * Kohonen Self-Organizing Maps
 * Unsupervised Learning
@@ -236,21 +243,12 @@ Deep-Learning-Models-Python
 
 ---
 
-## 16. Restricted Boltzmann Machines (RBM)
+## 17. Restricted Boltzmann Machines (RBM)
 
 * Energy-Based Models
 * Contrastive Divergence
 * Feature Learning
 * Collaborative Filtering
-
----
-
-## 17. Deep Belief Networks (DBN)
-
-* Layer-wise Pretraining
-* Deep Belief Networks
-* Unsupervised Feature Learning
-* Classification using DBNs
 
 ---
 
