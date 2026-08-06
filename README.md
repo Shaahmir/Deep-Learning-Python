@@ -48,21 +48,20 @@ Deep-Learning-Models-Python
 
 # Algorithms & Models Included
 
-## 01. Artificial Neural Networks (ANN)
+## Artificial Neural Networks (ANN)
 
 * Perceptron
 * Feedforward Neural Networks (FNN)
 * Artificial Neural Networks (ANN)
 * Binary Classification
 * Multi-Class Classification
-* Regression using ANN
 * Activation Functions
 * Loss Functions
 * Backpropagation
 
 ---
 
-## 02. Convolutional Neural Networks (CNN)
+## Convolutional Neural Networks (CNN)
 
 * Convolution Operation
 * Pooling Layers
@@ -79,7 +78,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 03. Recurrent Neural Networks (RNN)
+## Recurrent Neural Networks (RNN)
 
 * Vanilla RNN
 * Long Short-Term Memory (LSTM)
@@ -93,7 +92,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 04. Attention Mechanisms
+## Attention Mechanisms
 
 * Bahdanau Attention
 * Luong Attention (General)
@@ -104,7 +103,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 05. Transformers
+## Transformers
 
 * Self-Attention
 * Multi-Head Attention
@@ -112,13 +111,11 @@ Deep-Learning-Models-Python
 * Transformer Architecture
 * Encoder
 * Decoder
-* BERT
-* GPT
-* T5
+* BERT, GPT, T5
 
 ---
 
-## 06. Vision Transformers (ViT)
+## Vision Transformers (ViT)
 
 * Vision Transformer (ViT)
 * DeiT
@@ -128,13 +125,12 @@ Deep-Learning-Models-Python
 
 ---
 
-## 07. Transfer Learning
+## Transfer Learning
 
 * Feature Extraction
 * Fine-Tuning
 * Transfer Learning using TensorFlow
 * Transfer Learning using PyTorch
-* VGG16
 * VGG19
 * ResNet
 * InceptionV3
@@ -143,10 +139,8 @@ Deep-Learning-Models-Python
 
 ---
 
-## 08. Object Detection
+## Object Detection
 
-* YOLOv3
-* YOLOv5
 * YOLOv8
 * SSD (Single Shot Detector)
 * Faster R-CNN
@@ -156,7 +150,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 09. Image Segmentation
+## Image Segmentation
 
 * U-Net
 * U-Net++
@@ -167,7 +161,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 10. Autoencoders
+## Autoencoders
 
 * Vanilla Autoencoder
 * Sparse Autoencoder
@@ -179,7 +173,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 11. Generative Adversarial Networks (GAN)
+## Generative Adversarial Networks (GAN)
 
 * Vanilla GAN
 * Deep Convolutional GAN (DCGAN)
@@ -192,7 +186,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 12. Diffusion Models
+## Diffusion Models
 
 * Diffusion Model Fundamentals
 * Denoising Diffusion Probabilistic Models (DDPM)
@@ -202,7 +196,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 13. Graph Neural Networks (GNN)
+## Graph Neural Networks (GNN)
 
 * Graph Convolutional Networks (GCN)
 * Graph Attention Networks (GAT)
@@ -213,7 +207,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 14. Capsule Networks
+## Capsule Networks
 
 * Capsule Layers
 * Dynamic Routing
@@ -222,7 +216,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 15. Siamese Networks
+## Siamese Networks
 
 * Similarity Learning
 * Contrastive Loss
@@ -234,7 +228,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 16. Self-Organizing Maps (SOM)
+## Self-Organizing Maps (SOM)
 
 * Kohonen Self-Organizing Maps
 * Unsupervised Learning
@@ -243,7 +237,7 @@ Deep-Learning-Models-Python
 
 ---
 
-## 17. Restricted Boltzmann Machines (RBM)
+## Restricted Boltzmann Machines (RBM)
 
 * Energy-Based Models
 * Contrastive Divergence
@@ -252,19 +246,17 @@ Deep-Learning-Models-Python
 
 ---
 
-## 18. Model Optimization
+## Model Optimization
 
 * Weight Initialization
 * Batch Normalization
 * Dropout
 * Early Stopping
 * Learning Rate Scheduling
-* Gradient Descent
-* Stochastic Gradient Descent (SGD)
+* Gradient Descent, Stochastic Gradient Descent (SGD)
 * Momentum
 * RMSProp
-* Adam
-* AdamW
+* Adam, AdamW
 * Adagrad
 * Learning Rate Decay
 * L1 & L2 Regularization
