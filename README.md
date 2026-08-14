@@ -109,8 +109,7 @@ Deep-Learning-Models-Python
 * Multi-Head Attention
 * Positional Encoding
 * Transformer Architecture
-* Encoder
-* Decoder
+* Encoder - Decoder
 * BERT, GPT, T5
 
 ---
