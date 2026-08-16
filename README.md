@@ -191,6 +191,7 @@ Deep-Learning-Models-Python
 * Denoising Diffusion Probabilistic Models (DDPM)
 * Stable Diffusion Concepts
 * Latent Diffusion Models
+* Diffusion Transformer
 * Image Generation
 
 ---
