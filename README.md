@@ -327,7 +327,7 @@ By exploring this repository, you will learn:
 - Neural Network design and implementation
 - Computer Vision using CNNs and Vision Transformers
 - Natural Language Processing using RNNs and Transformers
-- Representation learning using Autoencoders
+- Movie Recommendation system using Autoencoders
 - Image generation using GANs and Diffusion Models
 - Graph learning using Graph Neural Networks
 - Model optimization techniques
