@@ -204,6 +204,8 @@ Deep-Learning-Models-Python
 * Node Classification
 * Link Prediction
 * Graph Embedding
+* Zachary's Karate Club Network
+* Geometric Neural Networks.ipynb
 
 ---
 
